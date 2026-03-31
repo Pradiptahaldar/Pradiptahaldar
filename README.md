@@ -24,7 +24,7 @@
 
 ## 📊 GitHub Stats
 
-![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username\&show_icons=true\&theme=tokyonight)
+![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pra\&show_icoiptahaldarns=true\&theme=tokyonight)
 
 ---
 
