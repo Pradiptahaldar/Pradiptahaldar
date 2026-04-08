@@ -16,7 +16,7 @@
 
 ## 🧰 Tech Stack
 
-* 💻 Languages: C, Python
+* 💻 Languages: C, Python,SQL,HTML(basic)
 * 🔌 Hardware: ESP32, Sensors (DHT11, MQ2)
 * 🛠️ Tools: Git, VS Code, Arduino IDE
 
