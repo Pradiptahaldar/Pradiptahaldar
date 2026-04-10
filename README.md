@@ -48,8 +48,9 @@
 > "Keep building. Keep learning."
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pradiptahaldar&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=Pradiptahaldar&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pradiptahaldar&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Pradiptahaldar&theme=tokyonight&hide_border=true&cache_seconds=1800&date_format=M%20j%5B%2C%20Y%5D)
 
 ![Python](https://img.shields.io/badge/Python-blue)
 ![ESP32](https://img.shields.io/badge/ESP32-IoT-green)
