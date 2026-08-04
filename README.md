@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Pradipta+Haldar;Computer+Science+Student;Building+Projects+Every+Day;Learning+DSA+%7C+Python+%7C+Java;Future+Software+Engineer+in+Japan+🇯🇵)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Pradipta+Haldar;Computer+Science+Student;Building+Projects+Every+Day;Learning+DSA+%7C+Python+%7C+Java;Future+Software+Engineer)
 
 <h1 align="center">👋 Hi, I'm Pradipta Haldar</h1>
 
@@ -110,26 +110,15 @@ An AI + IoT project that predicts tea quality using sensor data and machine lear
 ---
 
 # 📊 GitHub Analytics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pradiptahaldar&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pradiptahaldar&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=Pradiptahaldar&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradiptahaldar&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 # 📈 Contribution Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pradiptahaldar&theme=tokyo-night)
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pradiptahaldar&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
+# Github Streak 
+![GitHub Streak](https://streak-stats.demolab.com?user=Pradiptahaldar&theme=tokyonight&hide_border=true)
 
 # 🌱 Currently Learning
 
