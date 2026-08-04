@@ -1,58 +1,169 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Welcome+to+my+profile;IoT+Developer;Future+Engineer)
-# 👋 Hi, I'm Pradipta
+```markdown
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Pradipta+Haldar;Computer+Science+Student;Building+Projects+Every+Day;Learning+DSA+%7C+Python+%7C+Java;Future+Software+Engineer+in+Japan+🇯🇵)
 
-🎓 Student | 💻 Tech Enthusiast|
+<h1 align="center">👋 Hi, I'm Pradipta Haldar</h1>
 
----
+<p align="center">
+🎓 B.Tech Computer Science & Business Systems (CSBS) Student <br>
+💻 Passionate about Software Development, Open Source & Problem Solving <br>
+🇯🇵 Aspiring Software Engineer aiming for Japan
+</p>
 
-## 🚀 About Me
-
-* 🌱 Currently learning: Programming & Electronics (ESP32)
-* 🛠️ Working on: Real-world projects (IoT, sensors, ML basics)
-* 🎯 Goal: Build impactful tech & study in Japan
-* ⚡ Fun fact: I like mixing hardware + software
-
----
-
-## 🧰 Tech Stack
-
-* 💻 Languages: C, Python,SQL,HTML(basic)
-* 🔌 Hardware: ESP32, Sensors (DHT11, MQ2)
-* 🛠️ Tools: Git, VS Code, Arduino IDE
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Pradiptahaldar&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+#  About Me
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pradiptahaldar&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 Projects
-
-* 🍵 Smart Tea Quality Analyzer (ESP32 + ML)
-* 📷 Color Detection using OpenCV
-* 🌡️ Sensor Data Monitoring System
+- 🎓 B.Tech Computer Science & Business Systems (CSBS) Student
+- 💻 Passionate about Software Development, Problem Solving & Open Source
+- 🌱 Currently learning **Data Structures & Algorithms, Java, Python and Japanese (JLPT N5)**
+- 🚀 Building full-stack applications and system-level projects
+- 🇯🇵 Goal: Pursue higher studies and build a software engineering career in Japan
+- ⚡ I enjoy turning ideas into real-world software.
 
 ---
 
-## 📫 Connect With Me
+# 💻 Tech Stack
 
-* GitHub: https://github.com/Pradiptahaldar
-* Email: pradiptahaldar938@gmail.com
+### 👨‍💻 Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🌐 Web Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🛠 Frameworks & Tools
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 
 ---
 
-## 💭 Quote
+#  Featured Projects
 
-> "Keep building. Keep learning."
+##  AttendX
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Pradiptahaldar&theme=tokyonight&hide_border=true&cache_seconds=1800&date_format=M%20j%5B%2C%20Y%5D)
+A modern attendance management web application built using Flask.
 
-![Python](https://img.shields.io/badge/Python-blue)
-![ESP32](https://img.shields.io/badge/ESP32-IoT-green)
-![OpenCV](https://img.shields.io/badge/OpenCV-ComputerVision-red)
+### Features
+- Secure Authentication
+- Attendance Management
+- Responsive Dashboard
+- Clean UI
+- Scalable Flask Backend
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+**Tech Stack:** Flask • Python • HTML • CSS • JavaScript • SQLite
 
+---
 
+##  PradiptaPy
+
+A custom programming language built completely in Python.
+
+### Features
+- Custom Syntax
+- Lexer
+- Parser
+- Interpreter
+- Beginner-friendly Language Design
+
+**Tech Stack:** Python
+
+---
+
+##  PH Tasks (ToDo App)
+
+A full-stack task management application with authentication and complete CRUD functionality.
+
+### Features
+- User Login & Signup
+- Create, Update & Delete Tasks
+- Search Tasks
+- Responsive Interface
+
+**Tech Stack:** Flask • Python • MySQL • HTML • CSS • JavaScript
+
+---
+
+##  Smart Tea Quality Analyzer
+
+An AI + IoT project that predicts tea quality using sensor data and machine learning.
+
+### Features
+- ESP32 Integration
+- Temperature & Aroma Sensors
+- OpenCV Color Detection
+- Machine Learning Prediction
+
+**Tech Stack:** Python • ESP32 • OpenCV • Scikit-learn • Flask
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pradiptahaldar&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=Pradiptahaldar&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradiptahaldar&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pradiptahaldar&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+- Data Structures & Algorithms
+- Java
+- Python
+- Git & GitHub
+- Flask
+- Japanese (JLPT N5)
+
+---
+
+# 🎯 Goals for 2026
+
+- 🚀 Build 10+ high-quality software projects
+- 💻 Master Data Structures & Algorithms
+- ☕ Become proficient in Java & Python
+- 🇯🇵 Complete JLPT N5
+- 🌟 Maintain consistent GitHub contributions
+- 📚 Strengthen problem-solving skills through daily coding
+
+---
+
+# 📫 Connect With Me
+
+- 🌐 GitHub: https://github.com/Pradiptahaldar
+- 📧 Email: pradiptahaldar938@gmail.com
+
+---
+
+# 💭 Quote
+
+> **"Consistency beats intensity. Build. Learn. Repeat."**
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and follow my journey.
+```
