@@ -1,4 +1,3 @@
-```markdown
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Pradipta+Haldar;Computer+Science+Student;Building+Projects+Every+Day;Learning+DSA+%7C+Python+%7C+Java;Future+Software+Engineer+in+Japan+🇯🇵)
 
 <h1 align="center">👋 Hi, I'm Pradipta Haldar</h1>
@@ -166,4 +165,4 @@ An AI + IoT project that predicts tea quality using sensor data and machine lear
 > **"Consistency beats intensity. Build. Learn. Repeat."**
 
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and follow my journey.
-```
+
